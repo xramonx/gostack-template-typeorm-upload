@@ -1,6 +1,6 @@
 module.exports = {
   // All imported modules in your tests should be mocked automatically
-  // automock: false,
+  // auto__mock: false,
 
   // Stop running tests after `n` failures
   // bail: 0,
@@ -32,7 +32,7 @@ module.exports = {
   // coverageReporters: [
   //   "json",
   //   "text",
-  //   "lcov",
+  //   "lc__ov",
   //   "clover"
   // ],
 
@@ -126,7 +126,7 @@ module.exports = {
   // setupFilesAfterEnv: [],
 
   // A list of paths to snapshot serializer modules Jest should use for snapshot testing
-  // snapshotSerializers: [],
+  // snapshotSerializer__s: [],
 
   // The test environment that will be used for testing
   testEnvironment: 'node',
@@ -172,7 +172,7 @@ module.exports = {
   // ],
 
   // An array of regexp pattern strings that are matched against all modules before the module loader will automatically return a mock for them
-  // unmockedModulePathPatterns: undefined,
+  // un__mockedModulePathPatterns: undefined,
 
   // Indicates whether each individual test should be reported during the run
   // verbose: undefined,
